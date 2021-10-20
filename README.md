@@ -1,14 +1,14 @@
 # Hello Human! (I hope?) 👋🏽
 
-I'm Adewale a.k.a Ace. I build so others can live. 
+I'm Vitalik-Hakim  a.k.a MSJ. I like to explore. 
 
-Mostly working with Laravel, Vue and anything else needed to get the job done. I try to build useful tools as I find need for them, so if you do find something useful, don't forget to share!
+Mostly working with different Languages, Python and anything else needed for my exploration. I try to build useful tools as I find need for them, so if you do find something useful, don't forget to stare!
 
-I currently work at [Flutterwave](https://www.flutterwave.com), a global payments platform. If you'd love to support my work, check out my [Patreon](https://www.patreon.com/acekyd) or hit me up on [Twitter](https://twitter.com/ace_kyd)!
+I currently studying at [SOSHGIC](https://www.soshgic.edu.gh/), an international College(IB CURRICULUM). If you'd love talk, check out my [Telegram](https://www.soshgic.edu.gh/) or hit me up on [Shout](https://shout.tribe.so/user/sharkest)! A social Platfrom I made for everyone.
 
 <p align="center">
-  <a href="https://github.com/acekyd?tab=followers">
-    <img src="https://img.shields.io/github/followers/acekyd?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/Vitalik-Hakim?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vitalik-hakim?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/acekyd">
     <img src="https://img.shields.io/twitter/follow/ace_kyd?label=Twitter&logo=twitter&style=for-the-badge" />
