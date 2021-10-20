@@ -1,6 +1,8 @@
-# Hii there! (I hope?) 👋🏽
+# Hi there!👋🏽
 
-I'm Vitalik-Hakim. I like to explore. 
+I'm Vitalik-Hakim.
+
+I like to explore. 
 
 If you'd love talk, check out my [Telegram](https://t.me/hakim_starboy) or hit me up on [Shout](https://shout.tribe.so/user/sharkest)! A social Platfrom I made for everyone.
 
@@ -13,4 +15,4 @@ If you'd love talk, check out my [Telegram](https://t.me/hakim_starboy) or hit m
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalik-hakim&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
-<p align="center">Bye :)</p>
+<p align="center">Nice meeting you! :)</p>
