@@ -4,7 +4,7 @@ I'm Vitalik-Hakim.
 
 I like to explore. 
 
-If you'd love talk, check out my [Telegram](https://t.me/hakim_starboy) or hit me up on [Shout](https://shout.tribe.so/user/sharkest)! A social Platfrom I made for everyone.
+If you'd love talk, check out my [Telegram](https://t.me/hakim_starboy) or hit me up on [Shout](https://shout.tribe.so/user/sharkest)! A social Plartfom I made for everyone.
 
 <p align="center">
   <a href="https://github.com/Vitalik-Hakim?tab=followers">
